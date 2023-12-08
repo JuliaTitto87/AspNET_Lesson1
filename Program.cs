@@ -31,5 +31,10 @@ public class Program
             pattern: "{controller=Home}/{action=Index}/{id?}");
 
         app.Run();
+
+        void FirstMethod()
+        {
+            // some info
+        }
     }
 }

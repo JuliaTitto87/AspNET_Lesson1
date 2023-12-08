@@ -31,5 +31,10 @@ public class Program
             pattern: "{controller=Home}/{action=Index}/{id?}");
 
         app.Run();
+
+        void SecondMethod()
+        {
+            //info for new branch
+        }
     }
 }

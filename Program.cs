@@ -36,5 +36,10 @@ public class Program
         {
             // some info
         }
+
+        void ThirdMetod()
+        {
+            // now i can switch my branches
+        }
     }
 }
